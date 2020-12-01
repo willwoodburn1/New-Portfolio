@@ -25,10 +25,14 @@ body {
     border: 1px solid green;
 } */
 
-#titlePageFooter {
+#pageFooter {
     margin-top: 100px;
     text-align: center;
     background-color: red;
     color: white;
     border: 1px solid white;
+}
+
+.hide {
+    display: none;
 }
